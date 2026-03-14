@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @A-Lauper
+/src/backend/database.py      @A-Lauper
+/src/backend/routers/auth.py  @A-Lauper
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @A-Lauper
